@@ -1,0 +1,2 @@
+# SlateOS-alpha
+Operating System. 
